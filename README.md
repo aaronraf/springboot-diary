@@ -17,3 +17,4 @@ Below you'll find the weekly journal and quick descriptions of what I've learned
 
 # Learning Resources
 [The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners by Devtiro](https://www.youtube.com/watch?v=Nv2DERaMx-4&list=PL7tSy-sm2RqJED0Jq-ZsPMD-_wVA0m828&index=5)
+[Learn Spring Boot Series by Baeldung](https://www.baeldung.com/spring-boot)

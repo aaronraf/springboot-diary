@@ -13,8 +13,12 @@ Below you'll find the weekly journal and quick descriptions of what I've learned
 - Spring App Layers
 - [Dependency Injections with Beans](/colours-with-beans)
 
-<!-- ### Day 2 -->
+### Day 2 - 25.10.2024
+- [Dependency Injections with @Component and Friends](/colours-with-component-and-friends)
+- Component Scanning
+- [Autoconfiguration and Configuration Files](/starter)
 
 # Learning Resources
-[The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners by Devtiro](https://www.youtube.com/watch?v=Nv2DERaMx-4&list=PL7tSy-sm2RqJED0Jq-ZsPMD-_wVA0m828&index=5)
-[Learn Spring Boot Series by Baeldung](https://www.baeldung.com/spring-boot)
+[The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners by Devtiro](https://www.youtube.com/watch?v=Nv2DERaMx-4&list=PL7tSy-sm2RqJED0Jq-ZsPMD-_wVA0m828&index=5)<br>
+[Learn Spring Boot Series by Baeldung](https://www.baeldung.com/spring-boot)<br>
+[Official Spring Boot Documentation](https://spring.io/projects/spring-boot)

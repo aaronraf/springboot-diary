@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="first-app" />
+        <module name="colours" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="database" target="17" />
+      <module name="database (1)" target="17" />
+      <module name="database (10)" target="17" />
+      <module name="database (11)" target="17" />
+      <module name="database (12)" target="17" />
+      <module name="database (13)" target="17" />
+      <module name="database (14)" target="17" />
+      <module name="database (15)" target="17" />
+      <module name="database (2)" target="17" />
+      <module name="database (3)" target="17" />
+      <module name="database (4)" target="17" />
+      <module name="database (5)" target="17" />
+      <module name="database (6)" target="17" />
+      <module name="database (7)" target="17" />
+      <module name="database (8)" target="17" />
+      <module name="database (9)" target="17" />
+      <module name="jackson" target="17" />
+      <module name="jackson (1)" target="17" />
+      <module name="jackson (2)" target="17" />
+      <module name="jackson (3)" target="17" />
+      <module name="quickstart" target="17" />
+      <module name="quickstart (1)" target="17" />
+      <module name="quickstart (2)" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="colours" options="-parameters" />
+      <module name="database" options="-parameters" />
+      <module name="database (1)" options="-parameters" />
+      <module name="database (10)" options="-parameters" />
+      <module name="database (11)" options="-parameters" />
+      <module name="database (12)" options="-parameters" />
+      <module name="database (13)" options="-parameters" />
+      <module name="database (14)" options="-parameters" />
+      <module name="database (15)" options="-parameters" />
+      <module name="database (2)" options="-parameters" />
+      <module name="database (3)" options="-parameters" />
+      <module name="database (4)" options="-parameters" />
+      <module name="database (5)" options="-parameters" />
+      <module name="database (6)" options="-parameters" />
+      <module name="database (7)" options="-parameters" />
+      <module name="database (8)" options="-parameters" />
+      <module name="database (9)" options="-parameters" />
+      <module name="first-app" options="-parameters" />
+      <module name="jackson" options="-parameters" />
+      <module name="jackson (1)" options="-parameters" />
+      <module name="jackson (2)" options="-parameters" />
+      <module name="jackson (3)" options="-parameters" />
+      <module name="quickstart" options="-parameters" />
+      <module name="quickstart (1)" options="-parameters" />
+      <module name="quickstart (2)" options="-parameters" />
+    </option>
+  </component>
+</project>

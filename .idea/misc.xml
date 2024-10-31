@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/first-app/pom.xml" />
+        <option value="$PROJECT_DIR$/colours-with-beans/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/2_maven/0_example/quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/10_rest_api/6_book_list/database/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/10_rest_api/16_pagination/database/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/10_rest_api/4_book_create/database/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/10_rest_api/5_author_list/database/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/10_rest_api/14_book_delete/database/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/10_rest_api/2_author_create/database/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/10_rest_api/8_book_read_one/database/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/10_rest_api/13_author_delete/database/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/10_rest_api/15_nested_objects/database/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/10_rest_api/7_author_read_one/database/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/10_rest_api/10_book_full_update/database/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/10_rest_api/3_author_create_test/database/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/10_rest_api/9_author_full_update/database/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/10_rest_api/12_book_partial_update/database/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/10_rest_api/11_author_partial_update/database/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/1_quickstart/0_fresh/quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/1_quickstart/1_complete/quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/11_deployment/0_deployment/database/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/9_jackson_json/2_web/books/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/9_jackson_json/3_marshalling/books/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/9_jackson_json/4_unmarshalling/books/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/9_jackson_json/5_renaming_properties/books/pom.xml" />
+        <option value="$PROJECT_DIR$/course-spring-boot-main/9_jackson_json/6_ignoring_properties/books/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="temurin-17 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

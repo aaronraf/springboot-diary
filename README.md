@@ -6,17 +6,16 @@ Below you'll find the weekly journal and quick descriptions of what I've learned
 
 # Weekly Journal
 ## Week 01
-### Day 1 - 24.10.2024
 - [Initialization](/first-app)
 - Maven Concepts
 - Maven Workflow
 - Spring App Layers
 - [Dependency Injections with Beans](/colours-with-beans)
-
-### Day 2 - 25.10.2024
 - [Dependency Injections with @Component and Friends](/colours-with-component-and-friends)
 - Component Scanning
 - [Autoconfiguration and Configuration Files](/starter)
+
+<!-- ## Week 02 -->
 
 # Learning Resources
 [The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners by Devtiro](https://www.youtube.com/watch?v=Nv2DERaMx-4&list=PL7tSy-sm2RqJED0Jq-ZsPMD-_wVA0m828&index=5)<br>

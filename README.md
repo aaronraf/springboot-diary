@@ -15,7 +15,11 @@ Below you'll find the weekly journal and quick descriptions of what I've learned
 - Component Scanning
 - [Autoconfiguration and Configuration Files](/starter)
 
-<!-- ## Week 02 -->
+## Week 02
+- Configuration Properties
+- Connecting to Databases
+    - [H2](/database)
+    - [PostgreSQL](/database-postgres)
 
 # Learning Resources
 [The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners by Devtiro](https://www.youtube.com/watch?v=Nv2DERaMx-4&list=PL7tSy-sm2RqJED0Jq-ZsPMD-_wVA0m828&index=5)<br>

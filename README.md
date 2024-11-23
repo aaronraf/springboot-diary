@@ -24,8 +24,10 @@ Below you'll find the weekly journal and quick descriptions of what I've learned
 ## Week 03
 - [Connecting to PostreSQL Database using Schema](/database-schema)
 - [Setting up a JDBC Template](/database-jdbc)
-- DAO
-    - [Setup](/dao-setup)
+- [DAO Setup](/dao-setup)
+
+## Week 04
+- [DAO CRUD Functionality](/dao-crud)
 
 # Learning Resources
 [The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners by Devtiro](https://www.youtube.com/watch?v=Nv2DERaMx-4&list=PL7tSy-sm2RqJED0Jq-ZsPMD-_wVA0m828&index=5)<br>

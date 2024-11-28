@@ -16,7 +16,7 @@ import static org.mockito.ArgumentMatchers.eq;
 import static org.mockito.Mockito.verify;
 
 @ExtendWith(MockitoExtension.class)
-public class AuthorDaoImplTest {
+public class AuthorDaoImplTests {
 
     @Mock
     private JdbcTemplate jdbcTemplate;
@@ -26,7 +26,7 @@ public class AuthorDaoImplTest {
 
     @Test
     public void testThatCreateAuthorGeneratesCorrectSql() {
-        Author author = TestDataUtil.createTestAuthor();
+        Author author = TestDataUtil.createTestAuthorA();
         underTest.create(author);
 
         verify(jdbcTemplate).update(
@@ -42,6 +42,15 @@ public class AuthorDaoImplTest {
                 eq("SELECT id, name, age FROM authors WHERE id = ? LIMIT 1"),
                 ArgumentMatchers.<AuthorDaoImpl.AuthorRowMapper>any(),
                 eq(1L)
+        );
+    }
+
+    @Test
+    public void testThatFindManyGeneratesCorrectSql() {
+        underTest.find();
+        verify(jdbcTemplate).query(
+                eq("SELECT id, name, age FROM authors"),
+                ArgumentMatchers.<AuthorDaoImpl.AuthorRowMapper>any()
         );
     }
 }

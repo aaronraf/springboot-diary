@@ -34,6 +34,7 @@ Below you'll find the weekly journal and quick descriptions of what I've learned
 
 - [DAO CRUD Functionality](/dao-crud)
 - [Implementing CRUD using Spring Data JPA](/dao-with-jpa)
+- [Jackson & JSON](/jackson-json)
 
 # Learning Resources
 

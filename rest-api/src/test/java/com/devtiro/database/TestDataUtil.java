@@ -1,7 +1,11 @@
 package com.devtiro.database;
 
+import com.devtiro.database.domain.dto.AuthorDto;
+import com.devtiro.database.domain.dto.BookDto;
 import com.devtiro.database.domain.entities.AuthorEntity;
 import com.devtiro.database.domain.entities.BookEntity;
+
+import java.awt.print.Book;
 
 public final class TestDataUtil {
     private TestDataUtil() {
@@ -31,27 +35,35 @@ public final class TestDataUtil {
                 .build();
     }
 
-    public static BookEntity createTestBookA(AuthorEntity authorEntity) {
+    public static BookEntity createTestBookEntityA(final AuthorEntity author) {
         return BookEntity.builder()
                 .isbn("978-1-2345-6789-0")
                 .title("Chemistry 101")
-                .authorEntity(authorEntity)
+                .author(author)
                 .build();
     }
 
-    public static BookEntity createTestBookB(AuthorEntity authorEntity) {
+    public static BookDto createTestBookDtoA(final AuthorDto author) {
+        return BookDto.builder()
+                .isbn("978-1-2345-6789-0")
+                .title("Chemistry 101")
+                .author(author)
+                .build();
+    }
+
+    public static BookEntity createTestBookEntityB(AuthorEntity author) {
         return BookEntity.builder()
                 .isbn("978-1-2345-6790-0")
                 .title("JavaScript for Babies")
-                .authorEntity(authorEntity)
+                .author(author)
                 .build();
     }
 
-    public static BookEntity createTestBookC(AuthorEntity authorEntity) {
+    public static BookEntity createTestBookEntityC(AuthorEntity author) {
         return BookEntity.builder()
                 .isbn("978-1-2345-6791-0")
                 .title("Mindset")
-                .authorEntity(authorEntity)
+                .author(author)
                 .build();
     }
 }

@@ -26,15 +26,23 @@ Below you'll find the weekly journal and quick descriptions of what I've learned
 
 ## Week 03
 
-- [Connecting to PostreSQL Database using Schema](/database-schema)
+- Connecting to Databases
+  - [PostgreSQL using Schema](/database-schema)
 - [Setting up a JDBC Template](/database-jdbc)
-- [DAO Setup](/dao-setup)
+- DAO
+  - [Setup](/dao-setup)
 
 ## Week 04
 
-- [DAO CRUD Functionality](/dao-crud)
-- [Implementing CRUD using Spring Data JPA](/dao-with-jpa)
+- DAO
+  - [Implementing CRUD Functionalities](/dao-crud)
+
+## Week 05
+- DAO
+  - [Implementing CRUD Functionalities with Spring Data JPA](/dao-with-jpa)
 - [Jackson & JSON](/jackson-json)
+- [REST API Application](/rest-api)
+  - Making Create Endpoints
 
 # Learning Resources
 

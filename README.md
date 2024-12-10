@@ -43,6 +43,11 @@ Below you'll find the weekly journal and quick descriptions of what I've learned
 - [Jackson & JSON](/jackson-json)
 - [REST API Application](/rest-api)
   - Making Create Endpoints
+  - Making List Endpoints
+ 
+## Week 06
+- [REST API Application](/rest-api)
+  - Making Read Endpoints
 
 # Learning Resources
 

@@ -22,5 +22,4 @@ public class Book {
 
   @JsonProperty("year")
   private String yearPublished;
-
 }
